@@ -10,7 +10,7 @@ function NavigationBar() {
 
         <Link to="/about" className="navLink"> About </Link>
 
-        <Link to="/projects" className="navLink"> Projects </Link>
+        <Link to="/projects" className="navLink"> WebDevelopment </Link>
 
         <Link to="/contact" className="navLink"> Contact </Link>
         
