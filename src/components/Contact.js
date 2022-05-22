@@ -10,7 +10,7 @@ function Contact() {
             <br/>
 
             <div>
-              Phone Number: 9292594858
+              Phone Number: 9292594
               <br/> 
                Email: aly.kourouma@lc.cuny.edu
 
