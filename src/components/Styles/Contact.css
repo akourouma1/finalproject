@@ -1,0 +1,20 @@
+.contact{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    background-color: rgb(0, 107, 128);
+    padding-bottom:100%;
+    
+}
+.message{
+    padding: 70px;
+    font-size: 30px;
+}
+
+.navLinkinfo{
+    margin:70px;
+    color: rgb(242, 243, 243);
+
+
+
+}

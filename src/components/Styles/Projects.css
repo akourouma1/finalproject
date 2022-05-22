@@ -1,0 +1,17 @@
+.project{
+    text-align: center;
+    color: rgb(235, 225, 225);
+    font-size: 35px;
+    background-color: rgb(66, 0, 128);
+    padding-bottom:100%;
+    
+}
+.memo{
+    padding: 70px;
+    font-size: 30px;
+}
+
+.navLinkpro{
+    margin:70px;
+    color: rgb(15, 246, 246);
+}

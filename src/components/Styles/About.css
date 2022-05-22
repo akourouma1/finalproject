@@ -1,0 +1,16 @@
+.about{
+    background-color: rgb(129, 75, 75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.aboutme{
+    margin-top: 10%;
+    margin-bottom: 45%;
+    color: white;
+    font-size: 30px;
+    width: 40vh;
+}
+
